@@ -512,3 +512,20 @@ footer a:focus {
   transform: scale(0.9);
   box-shadow: 0 4px 10px rgba(255, 215, 0, 0.7);
 }
+
+@media (max-width: 480px) {
+  .resume-container {
+    padding: 20px 5px;
+  }
+
+  .resume-btn {
+    font-size: 14px;
+    padding: 10px 20px;
+    gap: 5px;
+  }
+
+  .cv-icon {
+    width: 18px;
+    height: 18px;
+  }
+}
