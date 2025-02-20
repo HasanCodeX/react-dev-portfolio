@@ -109,7 +109,7 @@ class Header extends Component {
 {/* add btn  */}
 <div class="resume-container">
 <a 
-    href="/resume.pdf"
+    href="../resume.pdf"
     download="Mehedi_Hasan_CV.pdf"
     className="resume-btn"
   >

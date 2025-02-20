@@ -1,0 +1,99 @@
+{
+  "basic_info": {
+    "description_header": "Hello",
+"description": "👋  I'm Mehedi Hasan !\n\nI am a dedicated Frontend Developer and MERN Stack Expert with a deep passion for crafting high-performance, scalable, and visually appealing web applications. My expertise lies in modern front-end technologies, specializing in React.js, Angular, and Vue.js, along with a strong foundation in full-stack development.\n\nI’m always open to exciting projects, collaborations, and new opportunities. Feel free to reach out on WhatsApp to discuss how we can work together! 🚀\n\n💜 Thank you for visiting!",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Pet House",
+      "startDate": "2025",
+      "description": "The most expanded application I had opportunity to work with. My code was reviewed by an awesome curator. The application handles all adoption processes and allows storing all evidence on adopting animals from the animal shelter.",
+      "images": [
+        "images/portfolio/pet-house/p1.png",
+        "images/portfolio/pet-house/p2.png"
+      ],
+      "url": "https://github.com/HasanCodeX/web-b11-A3",
+      "technologies": [
+        {
+          "class": "devicon-tailwindcss-plain",
+          "name": "Tailwind CSS"
+        },
+        {
+          "class": "devicon-daisyui-plain",
+          "name": "Daisy UI"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        }
+      ]
+    },
+    {
+      "title": "Kids School",
+      "startDate": "2025",
+      "description": "Personal project for a study subject. I've earned an A+ grade :)",
+      "images": [
+        "images/portfolio/kid-school/story-1.png",
+        "images/portfolio/kid-school/story-2.png"
+      ],
+      "url": "https://github.com/HasanCodeX/web-b11-A2",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        }
+      ]
+    },
+    {
+      "title": "Bangladesh 2.0",
+      "startDate": "2025",
+      "description": "A comprehensive project aimed at showcasing the beauty and culture of Bangladesh. This project involved creating an interactive and visually appealing website using modern web technologies. It was a great learning experience in web development and design.",
+      "images": [
+        "./images/portfolio/bangladesh/banner.png",
+        "./images/portfolio/bangladesh/hero.png"
+      ],
+      "url": "https://github.com/HasanCodeX/web-b11-A1",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    
+    {
+      "company": "Quantum Faundation",
+      "title": "Volunteer at Meditation Center",
+      "years": "2017 - Present",
+      "mainTech": ["Meditation", "Community Service"],
+      "technologies": ["Mindfulness", "Event Management", "Public Speaking"]
+    },
+    {
+      "company": "Blood Donation Organization",
+      "title": "Regular Blood Donor",
+      "years": "2015 - Present",
+      "mainTech": ["Blood Donation"],
+      "technologies": ["Health Awareness", "Social Work", "Emergency Support"]
+    }
+  ]
+}
