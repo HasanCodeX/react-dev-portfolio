@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/HasanCodeX/react-dev-portfolio.git/static/css/main.0eea9fcc.chunk.css",
+    "main.js": "/HasanCodeX/react-dev-portfolio.git/static/js/main.06c1101e.chunk.js",
+    "main.js.map": "/HasanCodeX/react-dev-portfolio.git/static/js/main.06c1101e.chunk.js.map",
+    "runtime-main.js": "/HasanCodeX/react-dev-portfolio.git/static/js/runtime-main.2b3e0e5a.js",
+    "runtime-main.js.map": "/HasanCodeX/react-dev-portfolio.git/static/js/runtime-main.2b3e0e5a.js.map",
+    "static/css/2.e9dbce60.chunk.css": "/HasanCodeX/react-dev-portfolio.git/static/css/2.e9dbce60.chunk.css",
+    "static/js/2.b2a1bd91.chunk.js": "/HasanCodeX/react-dev-portfolio.git/static/js/2.b2a1bd91.chunk.js",
+    "static/js/2.b2a1bd91.chunk.js.map": "/HasanCodeX/react-dev-portfolio.git/static/js/2.b2a1bd91.chunk.js.map",
+    "index.html": "/HasanCodeX/react-dev-portfolio.git/index.html",
+    "precache-manifest.42a89bdabf1bc1694a1fb0a5182237c5.js": "/HasanCodeX/react-dev-portfolio.git/precache-manifest.42a89bdabf1bc1694a1fb0a5182237c5.js",
+    "service-worker.js": "/HasanCodeX/react-dev-portfolio.git/service-worker.js",
+    "static/css/2.e9dbce60.chunk.css.map": "/HasanCodeX/react-dev-portfolio.git/static/css/2.e9dbce60.chunk.css.map",
+    "static/css/main.0eea9fcc.chunk.css.map": "/HasanCodeX/react-dev-portfolio.git/static/css/main.0eea9fcc.chunk.css.map",
+    "static/js/2.b2a1bd91.chunk.js.LICENSE.txt": "/HasanCodeX/react-dev-portfolio.git/static/js/2.b2a1bd91.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b3e0e5a.js",
+    "static/css/2.e9dbce60.chunk.css",
+    "static/js/2.b2a1bd91.chunk.js",
+    "static/css/main.0eea9fcc.chunk.css",
+    "static/js/main.06c1101e.chunk.js"
+  ]
+}
