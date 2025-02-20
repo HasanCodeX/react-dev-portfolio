@@ -109,8 +109,9 @@ class Header extends Component {
 {/* add btn  */}
 <div class="resume-container">
 <a 
-    href="../resume.pdf"
-    download="Mehedi_Hasan_CV.pdf"
+    href="https://drive.google.com/uc?export=download&id=1l8WGLULVCu68U7c7S0XGpwZ3t6Ku_Lpv
+"
+    download="CV.pdf"
     className="resume-btn"
   >
     <img src="https://cdn-icons-png.flaticon.com/512/942/942799.png" alt="CV Icon" className="cv-icon" />

@@ -14,7 +14,7 @@ at GitHub. Check live preview(link below).
 
 <h3>:eye_speech_bubble: Live demo</h3>
 
-Check live demonstration <a href="https://hasancodex.github.io/react-frontend-dev-portfolio/"><strong>here</strong></a>
+Check live demonstration <a href="https://hasancodex.github.io/react-dev-portfolio/"><strong>here</strong></a>
 
 
 
@@ -28,7 +28,7 @@ Check live demonstration <a href="https://hasancodex.github.io/react-frontend-de
 // package.json
 
   "name": "react-frontend-dev-portfolio",
-  "homepage": "https://hasancodex.github.io/react-frontend-dev-portfolio/",   <-- remove/edit this
+  "homepage":"https://HasanCodeX.github.io/react-dev-portfolio",   <-- remove/edit this
   "version": "0.1.0",
   "private": true,
   "dependencies": {
